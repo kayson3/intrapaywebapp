@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "4ea46a11bab55c591ec1b8ce3997b620",
+  "assets/AssetManifest.json": "e107171e7a6a3c1261466d968c1ad56a",
 "assets/assets/banks.json": "161197ceacceadfe726af176aa22c4fe",
 "assets/assets/images/03.png": "155764f6f5a2d9de54c1b11733831b9f",
 "assets/assets/images/16.png": "848ad412054dc7d4457ca58f669125aa",
@@ -18,6 +18,11 @@ const RESOURCES = {
 "assets/assets/images/icon.png": "83524a72cec1c90228a78c50d608df78",
 "assets/assets/images/iconn.png": "ccaff08a17f955398a67393bda3421df",
 "assets/assets/images/Illustration.png": "86af23e874dd73f7eabcc3e80c6881fc",
+"assets/assets/images/onboard/Character.png": "9acc2cbfa1105a91e559ab01616d4d1f",
+"assets/assets/images/onboard/Group7104.png": "76f56c11ddadb526e9ab3d4fe18aba31",
+"assets/assets/images/onboard/Group7111.png": "f7f6fc556a3a0f2b160cf28eb849ed79",
+"assets/assets/images/onboard/Group7112.png": "4985310a6340172988aef3b5894e977e",
+"assets/assets/images/onboard/Group7115.png": "11311098ae08acb73f71ed9b6eac30b1",
 "assets/assets/images/redexclaim.png": "1b4b570cfa48b5bfa462f156694318f9",
 "assets/assets/images/redexclaim1.png": "a6f2b92bd584d281407f11219d8b9ce7",
 "assets/assets/images/Slapshh.png": "bc47535f87fd656a183c2b50e09765a9",
@@ -378,9 +383,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "a4ee309d7d6debf348f1f142803a0dce",
-"/": "a4ee309d7d6debf348f1f142803a0dce",
-"main.dart.js": "bee930ffba04512d77b153f8549d9fc2",
+"index.html": "050681b6da6e018f90914cf58fb6f9cf",
+"/": "050681b6da6e018f90914cf58fb6f9cf",
+"main.dart.js": "13cd0cc306be7886635afe28fb329b06",
 "manifest.json": "99a879b86e7c5d29f2e49baa477754e1",
 "splash/img/dark-background.png": "bc47535f87fd656a183c2b50e09765a9",
 "splash/img/light-background.png": "bc47535f87fd656a183c2b50e09765a9",

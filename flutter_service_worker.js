@@ -35,7 +35,7 @@ const RESOURCES = {
 "assets/FontManifest.json": "5504c4e38aba3935ae8c644d8dd735ab",
 "assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
 "assets/iconn.png": "ccaff08a17f955398a67393bda3421df",
-"assets/NOTICES": "447387689286d4d85c744f38cc830ccd",
+"assets/NOTICES": "6c9f9dc31799fe21f890e07632c9301c",
 "assets/packages/country_code_picker/flags/ad.png": "796914c894c19b68adf1a85057378dbc",
 "assets/packages/country_code_picker/flags/ae.png": "045eddd7da0ef9fb3a7593d7d2262659",
 "assets/packages/country_code_picker/flags/af.png": "44bc280cbce3feb6ad13094636033999",
@@ -380,24 +380,20 @@ const RESOURCES = {
 "assets/packages/flutter_vector_icons/fonts/Zocial.ttf": "1681f34aaca71b8dfb70756bca331eb2",
 "assets/packages/toast/assets/toastify.css": "a85675050054f179444bc5ad70ffc635",
 "assets/packages/toast/assets/toastify.js": "e7006a0a033d834ef9414d48db3be6fc",
-"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
-"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
-"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
-"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "9c6043706cc3db6e4618b165250e9ea7",
-"/": "9c6043706cc3db6e4618b165250e9ea7",
-"main.dart.js": "dd504459390c679964463cf15a617340",
+"index.html": "b77875c5d517e1aff83187843925ea4f",
+"/": "b77875c5d517e1aff83187843925ea4f",
+"main.dart.js": "a4e5365192ee964b56e52fe16a50d3ad",
 "manifest.json": "99a879b86e7c5d29f2e49baa477754e1",
 "splash/img/dark-background.png": "bc47535f87fd656a183c2b50e09765a9",
 "splash/img/light-background.png": "bc47535f87fd656a183c2b50e09765a9",
 "splash/splash.js": "f6ee10f0a11f96089a97623ece9a1367",
 "splash/style.css": "447fd14f0740103f69f42be3a6dbdade",
-"version.json": "690ec1afdac9f8089fb01741b91a12f4"
+"version.json": "194d6844d71124c5cce36517c54f91c9"
 };
 
 // The application shell files that are downloaded before a service worker can
